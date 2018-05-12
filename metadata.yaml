@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3266
     wikipedia: http://en.wikipedia.org/wiki/George_Newnes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40084#The-Strand-Magazine-Vol.-1---No.-3---March-1891--13-An-Illustrated-Monthly
 gutenberg_bookshelf: The Strand Magazine
 gutenberg_issued: '2012-06-26'
 gutenberg_type: Text
